@@ -12,9 +12,6 @@ About Me<br><br>Hey! I'm elyh86, a Software Development student at Techniek Coll
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=elyh86&icon=1&color=1)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shzxrp) 
 
